@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CalculaFex</string>
+    <string name="label_gasoline">Gasoline</string>
+    <string name="label_ethanol">Ethanol</string>
+    <string name="label_ration_fuel">Gasolina/Ethanol : %1$s</string>
+
 </resources>
