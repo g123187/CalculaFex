@@ -20,5 +20,5 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("br.com.gilmar.calculafex", appContext.packageName)
-    }
+    }    
 }
